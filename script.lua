@@ -175,4 +175,4 @@ end
 end
 end))
 end
-fun("Teqii", "THE VICTIM")
+fun("yourname", "suspect name")
