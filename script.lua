@@ -1,4 +1,4 @@
---so at the bottem where it says yourname and suspect name fill that in with obv ur name and the other person
+--so at the bottom where it says yourname and suspect name fill that in with obv ur name and the other person
 
 
 --this is not a server side script, can only be used on clients, should be able to use on low level clients
